@@ -42,6 +42,9 @@ Users can claim their funds only when the amount is reached or the time is over.
 
 ## Linea:
 Contract: 0xb8565738b6b049289b173C23544781cd105a60ac
+
 Hash: 0xb4ffca907090ff366a210e30ad90994259a4ab56ca0f2aec238cb7a97246f57f
+
 Link: https://explorer.goerli.linea.build/address/0xb8565738b6b049289b173C23544781cd105a60ac
+
 RPC: https://linea-goerli.infura.io/v3/5f7e93eb2ab5484a8cf36bad11a0c6f8
