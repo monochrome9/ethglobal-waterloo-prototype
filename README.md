@@ -8,7 +8,7 @@ What technologies we use:
 - [Sismo Factory](https://github.com/sismo-core/sismo-hub)
 - [Sismo Connect](https://github.com/sismo-core/sismo-connect-onchain-verifier)
 - [Worldcoin ID](https://github.com/worldcoin/world-id-poap)
-- Linea for smart contract deployment
+- Linea for smart contract deployment [blockscout link](https://explorer.goerli.linea.build/address/0xb8565738b6b049289b173C23544781cd105a60ac)
 
 ### The main idea
 Prototype provides a place where users can create their fundraising or donation projects. Prototype is fully decentralized, open source, and can be used without a UI. Sismo data is implemented as a smart contract. 
@@ -39,3 +39,9 @@ People who make deposits can see all neceserary data about the fundraise creator
 **Prototype has a fee - 3% for all projects.** Prototype can reduce fees to 0 for donations in case if users have a special POAP.
 
 Users can claim their funds only when the amount is reached or the time is over. Users claim the funds and pay the gas fee for Prototype fees. 
+
+## Linea:
+Contract: 0xb8565738b6b049289b173C23544781cd105a60ac
+Hash: 0xb4ffca907090ff366a210e30ad90994259a4ab56ca0f2aec238cb7a97246f57f
+Link: https://explorer.goerli.linea.build/address/0xb8565738b6b049289b173C23544781cd105a60ac
+RPC: https://linea-goerli.infura.io/v3/5f7e93eb2ab5484a8cf36bad11a0c6f8
